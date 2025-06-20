@@ -28,7 +28,6 @@ A web-based **Clinic Patient Record Management System** built using **Python**, 
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/clinic-patient-record-system.git
 cd clinic-patient-record-system
