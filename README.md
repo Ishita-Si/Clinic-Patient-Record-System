@@ -7,7 +7,7 @@ A web-based **Clinic Patient Record Management System** built using **Python**, 
 ## ✨ Features
 
 - 🧑‍⚕️ Add, update, view, and delete patient records
-- 📅 Schedule and manage appointments
+- 📅 Manage appointments
 - 🩺 Record diagnoses, treatments, and visit notes
 - 🔐 MySQL backend for secure data storage
 - 💡 Simple and intuitive Streamlit UI
@@ -32,3 +32,11 @@ A web-based **Clinic Patient Record Management System** built using **Python**, 
 ```bash
 git clone https://github.com/your-username/clinic-patient-record-system.git
 cd clinic-patient-record-system
+pip install -r requirements.txt
+streamlit run app.py
+```
+---
+
+👨‍⚕️ Built with Care
+To support healthcare professionals in streamlining clinical records and appointments.
+
